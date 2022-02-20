@@ -1,0 +1,33 @@
+body {
+    background-image: url('./Assets/background.png');
+}
+
+.card {
+background: rgba(228, 152, 38, 0.81);
+border: 6px solid #000000;
+box-sizing: border-box;
+border-radius: 11px;
+}
+
+.card-title {
+    text-align: center;
+}
+
+ .ubicacion {
+    text-align: center;
+}
+
+.bi {
+    float: right;
+}
+
+.row {
+    justify-content: center;
+}
+
+
+
+.text-footer {
+    font-size: larger;
+}
+
